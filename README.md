@@ -5,3 +5,5 @@ Users can specify a general style category (e.g., “Picasso” or “cosmic”)
 By simplifying the style selection process, this approach relieves users from the burden of choice and possibly improves the output quality.
 
 You can find the code I made for this project [here](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer/blob/main/Style_transfer.py)
+
+![image](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer/blob/main/Presentation%20Poster.pdf)
