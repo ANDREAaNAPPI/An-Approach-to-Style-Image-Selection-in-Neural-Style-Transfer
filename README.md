@@ -6,4 +6,4 @@ By simplifying the style selection process, this approach relieves users from th
 
 You can find the code I made for this project [here](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer/blob/main/Style_transfer.py)
 
-![image](https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer/blob/main/Presentation%20Poster.pdf)
+![image]([https://github.com/ANDREAaNAPPI/An-Approach-to-Style-Image-Selection-in-Neural-Style-Transfer/blob/main/Presentation%20Poster.pdf](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/Presentation%20Poster_page-0001.jpg))
