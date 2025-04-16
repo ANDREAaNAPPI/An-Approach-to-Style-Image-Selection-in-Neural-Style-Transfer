@@ -1,1 +1,1 @@
-# NST-optimal-style
+# Style Image selection in NST
